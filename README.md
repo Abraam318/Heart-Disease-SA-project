@@ -14,7 +14,7 @@ The notebook walks through the full ML pipeline:
 - Normalizing numerical attributes  
 - Splitting dataset into train/test  
 
-![Data Preprocessing](https://via.placeholder.com/600x300.png?text=Data+Preprocessing+Plot)
+![Data Preprocessing](download (5).png)
 
 ### ✔️ Exploratory Data Analysis (EDA)  
 - Correlation heatmaps  
