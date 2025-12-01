@@ -22,7 +22,7 @@ The notebook walks through the full ML pipeline:
 - Distribution plots  
 - Relationship between medical risk factors and disease outcome  
 
-![EDA Example](https://via.placeholder.com/600x300.png?text=EDA+Plot)
+![EDA Example](download%20(3).png)
 
 ### ✔️ Machine Learning Models  
 Several classification models are trained and compared, such as:  
@@ -38,12 +38,12 @@ Each model is evaluated using:
 - F1-Score  
 - ROC-AUC curve  
 
-![Model Comparison](https://via.placeholder.com/600x300.png?text=Model+Comparison+Plot)
+![Model Comparison](download%20(2).png)
 
 ### ✔️ Final Model  
 The notebook identifies the best-performing model and shows why it outperforms others.
 
-![Final Model](https://via.placeholder.com/600x300.png?text=Best+Model+Plot)
+![Final Model](download%20(1).png)
 
 ---
 
@@ -93,7 +93,7 @@ Run the cells sequentially to reproduce the analysis and model results.
   - ST depression  
   - Cholesterol levels  
 
-![Results Plot](https://via.placeholder.com/600x300.png?text=Results+Plot)
+![Results Plot](download.png)
 
 ---
 
