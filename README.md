@@ -58,15 +58,6 @@ The notebook identifies the best-performing model and shows why it outperforms o
 
 ---
 
-## 📂 Project Structure  
-📁 Heart-Disease-Prediction
-│── 📄 Heart_Disease_Prediction.ipynb
-│── 📄 README.md ← this file
-
-yaml
-Copy code
-
----
 
 ## 📊 Dataset  
 The project uses a heart disease dataset (such as the UCI Cleveland dataset), containing common medical attributes like:  
