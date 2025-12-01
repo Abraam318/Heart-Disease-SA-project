@@ -14,7 +14,7 @@ The notebook walks through the full ML pipeline:
 - Normalizing numerical attributes  
 - Splitting dataset into train/test  
 
-![Data Preprocessing](download%20(4).png)
+![Data Preprocessing](download.png)
 
 ### ✔️ Exploratory Data Analysis (EDA)  
 - Correlation heatmaps  
@@ -93,7 +93,7 @@ Run the cells sequentially to reproduce the analysis and model results.
   - ST depression  
   - Cholesterol levels  
 
-![Results Plot](download.png)
+![Results Plot](download%20(4).png)
 
 ---
 
